@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Tutorial para ser amigo da Marina</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            padding: 40px;
+            max-width: 700px;
+            margin: auto;
+            line-height: 1.7;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        .final {
+            margin-top: 25px;
+            font-weight: bold;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tutorial para ser amigo da Marina</h1>
+
+    <div class="card">
+        <p><strong>Primeiro passo (e mais importante):</strong> não fale muito. Não fique falando a cada 1 segundo. Vá por mim, ela não gosta nem um pouco de pessoas que não calam a boca. Uma vez falei tanto que ela mandou eu calar a boca… pois é.</p>
+
+        <p><strong>Segundo passo:</strong> ela gosta do Justin Bieber.</p>
+
+        <p><strong>Terceiro passo:</strong> ela tem muitos inimigos. Coitado do Djalma e do ex-vizinho dela…</p>
+
+        <p><strong>Quarto passo:</strong> ela tem medo de bolas, então tome cuidado.</p>
+
+        <p><strong>Quinto passo:</strong> ela só fica sentada. Sério, Marina, você fica muito tempo sentada, procure um médico.</p>
+
+        <p><strong>Sexto passo:</strong> ela odeia quem fica em pé por muito tempo — mas tem motivo! Quando você fica muito tempo em pé, o sangue da cabeça desce para o pé… sério…</p>
+
+        <p class="final">E foi isso! Espero que consiga ser amigo dessa mini psicopata :)</p>
+    </div>
+
+</body>
+</html>
